@@ -18,11 +18,12 @@ MPA 1st year Reika Nishino
    - https://www.udacity.com/blog/2023/01/transforming-data-with-python.html
 7. Save data. (in Stata and in Python as well)
 8. Create a summary statistics table. (in Stata and in Python as well)
-9. Create a graph of any type. (in Stata and in Python as well)
-10. Save graphs as files in Stata.
+   - https://github.com/gdsaxton/PANDAS/blob/master/Chapter%206%20-%20Producing%20a%20Summary%20Statistics%20Table%20for%20Publication.ipynb
+10. Create a graph of any type. (in Stata and in Python as well)
+11. Save graphs as files in Stata.
     
-11. Commit files into git version control.
-12. Name files, functions and variables appropriately.
-13. Write helpful comments and commit messages. Demonstrate both.
-14. Push a repository to GitHub.
-15. Explain how to reproduce your work with short instructions or a self-documenting master script.
+12. Commit files into git version control.
+13. Name files, functions and variables appropriately.
+14. Write helpful comments and commit messages. Demonstrate both.
+15. Push a repository to GitHub.
+16. Explain how to reproduce your work with short instructions or a self-documenting master script.
