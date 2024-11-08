@@ -15,7 +15,7 @@ MPA 1st year Reika Nishino
    - https://www.w3schools.com/python/pandas/ref_df_info.asp#:~:text=The%20info()%20method%20prints,(non%2Dnull%20values).
 7. Prepare a sample for analysis by filtering observations and variables and creating transformations of variables. Demonstrate all three. (in Stata and in Python as well)
    - https://miamioh.edu/centers-institutes/center-for-analytics-data-science/students/coding-tutorials/python/data-cleaning.html
-   - 
+   - https://www.udacity.com/blog/2023/01/transforming-data-with-python.html
 9. Save data. (in Stata and in Python as well)
 10. Create a summary statistics table. (in Stata and in Python as well)
 11. Create a graph of any type. (in Stata and in Python as well)
