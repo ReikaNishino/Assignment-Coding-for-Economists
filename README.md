@@ -1,6 +1,8 @@
 # Assignment-Coding-for-Economists
 
 MPA 1st year Reika Nishino
+- I wrote the code while checking the class notes, materials used during the class, and Google searches.
+- I used the data from this website: https://osf.io/3g7pd/
 
 **Learning Outcomes to Demonstrate**
 1. Understand folder structure. Perform operations on files in different folders.
