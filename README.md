@@ -14,12 +14,14 @@ MPA 1st year Reika Nishino
    - https://www.w3schools.com/python/pandas/ref_df_drop.asp#:~:text=The%20drop()%20method%20removes,method%20removes%20the%20specified%20row.
    - https://www.w3schools.com/python/pandas/ref_df_info.asp#:~:text=The%20info()%20method%20prints,(non%2Dnull%20values).
 7. Prepare a sample for analysis by filtering observations and variables and creating transformations of variables. Demonstrate all three. (in Stata and in Python as well)
-8. Save data. (in Stata and in Python as well)
-9. Create a summary statistics table. (in Stata and in Python as well)
-10. Create a graph of any type. (in Stata and in Python as well)
-11. Save graphs as files in Stata.
-12. Commit files into git version control.
-13. Name files, functions and variables appropriately.
-14. Write helpful comments and commit messages. Demonstrate both.
-15. Push a repository to GitHub.
-16. Explain how to reproduce your work with short instructions or a self-documenting master script.
+   - https://miamioh.edu/centers-institutes/center-for-analytics-data-science/students/coding-tutorials/python/data-cleaning.html
+   - 
+9. Save data. (in Stata and in Python as well)
+10. Create a summary statistics table. (in Stata and in Python as well)
+11. Create a graph of any type. (in Stata and in Python as well)
+12. Save graphs as files in Stata.
+13. Commit files into git version control.
+14. Name files, functions and variables appropriately.
+15. Write helpful comments and commit messages. Demonstrate both.
+16. Push a repository to GitHub.
+17. Explain how to reproduce your work with short instructions or a self-documenting master script.
