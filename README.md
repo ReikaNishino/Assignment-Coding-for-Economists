@@ -22,25 +22,26 @@ MPA 1st year Reika Nishino
       - https://www.udacity.com/blog/2023/01/transforming-data-with-python.html
    - stata
       - 
-8. Save data. (in Stata and in Python as well)
-9. Create a summary statistics table. (in Stata and in Python as well)
+7. Save data. (in Stata and in Python as well)
+8. Create a summary statistics table. (in Stata and in Python as well)
    - python
       - https://github.com/gdsaxton/PANDAS/blob/master/Chapter%206%20-%20Producing%20a%20Summary%20Statistics%20Table%20for%20Publication.ipynb
    - stata
       - 
-11. Create a graph of any type. (in Stata and in Python as well)
+9. Create a graph of any type. (in Stata and in Python as well)
     - python
        - https://www.udemy.com/course/data-analysis_and_dashboard/?srsltid=AfmBOopoR2WxTvgf9pMF7UB7aRvbTIKRBuGhAgpfrTeJVbsmHekboUe0&couponCode=ST2MT110724BNEW
        - https://python-graph-gallery.com/line-chart/
        - https://www.w3schools.com/python/pandas/ref_df_iterrows.asp#:~:text=The%20iterrows()%20method%20generates,(a%20Pandas%20Series%20object).
     - stata
        -  
-13. Save graphs as files in Stata.
+10. Save graphs as files in Stata.
 
 👇I hope you can check below questions through this repository
+
 11. Commit files into git version control.
-14. Name files, functions and variables appropriately.
-15. Write helpful comments and commit messages. Demonstrate both.
-16. Push a repository to GitHub.
-17. Explain how to reproduce your work with short instructions or a self-documenting master script.
+12. Name files, functions and variables appropriately.
+13. Write helpful comments and commit messages. Demonstrate both.
+14. Push a repository to GitHub.
+15. Explain how to reproduce your work with short instructions or a self-documenting master script.
    - I wrote what I did in this README.md
