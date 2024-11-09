@@ -37,11 +37,10 @@ MPA 1st year Reika Nishino
     - stata
        -  https://www.stata.com/manuals/g-2graphtwowayline.pdf
        -  stata cheatsheets
-       -  
+       -  and more... a lot
 10. Save graphs as files in Stata.
 
 👇I hope you can check below questions through this repository
-
 11. Commit files into git version control.
 12. Name files, functions and variables appropriately.
 13. Write helpful comments and commit messages. Demonstrate both.
