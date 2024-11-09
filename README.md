@@ -19,7 +19,6 @@ MPA 1st year Reika Nishino
    - stata
       - https://www.stata.com/links/stata-basics/import-export-delimited-csv-data/
       - https://www.statalist.org/forums/forum/general-stata-discussion/general/199578-duplicate-columns-with-stata-13
-      - 
 6. Prepare a sample for analysis by filtering observations and variables and creating transformations of variables. Demonstrate all three. (in Stata and in Python as well)
    - python
       - https://miamioh.edu/centers-institutes/center-for-analytics-data-science/students/coding-tutorials/python/data-cleaning.html
@@ -36,6 +35,8 @@ MPA 1st year Reika Nishino
        - https://python-graph-gallery.com/line-chart/
        - https://www.w3schools.com/python/pandas/ref_df_iterrows.asp#:~:text=The%20iterrows()%20method%20generates,(a%20Pandas%20Series%20object).
     - stata
+       -  https://www.stata.com/manuals/g-2graphtwowayline.pdf
+       -  stata cheatsheets
        -  
 10. Save graphs as files in Stata.
 
