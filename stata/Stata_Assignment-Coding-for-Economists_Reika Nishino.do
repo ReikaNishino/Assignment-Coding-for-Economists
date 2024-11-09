@@ -35,7 +35,22 @@ save "city-size-japan-stata.dta"
 summarize
 
 **** 9. Create a grapgh
-line pop_ year, legend(title("Population of 5 Japanese cities: 1995~2015") ///
-	subtitle("cities") ///
-	order(1 "Ageo" 2 "Akashi" 3 "Akita" 4 "Amagasaki" 5 "Anjo"))
-
+twoway (line pop_ year if city == "Ageo") ///
+       (line pop_ year if city == "Akashi") ///
+       (line pop_ year if city == "Akita") ///
+       (line pop_ year if city == "Amagasaki") ///
+       (line pop_ year if city == "Anjo"), ///
+       xlabel(1995(5)2015) ///
+       ylabel(0(100000)500000) ///
+	   ytitle("population") ///
+       title("Population Trends by City in Japan") ///
+       legend(order(1 "Ageo" 2 "Akashi" 3 "Akita" 4 "Amagasaki" 5 "Anjo")) ///
+	   note("Data source: https://www.citypopulation.de/de/japan/cities/ (downloaded in 2017)")
+	   
+**** 10. Save graph
+graph export linegraph-pop.png
+	   
+	   
+	   
+	   
+	   
