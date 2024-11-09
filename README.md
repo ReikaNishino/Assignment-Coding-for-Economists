@@ -41,6 +41,7 @@ MPA 1st year Reika Nishino
 10. Save graphs as files in Stata.
 
 👇I hope you can check below questions through this repository
+
 11. Commit files into git version control.
 12. Name files, functions and variables appropriately.
 13. Write helpful comments and commit messages. Demonstrate both.
